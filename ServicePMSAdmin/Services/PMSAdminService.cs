@@ -115,7 +115,7 @@ namespace ServicePMSAdmin.Services
             if (!string.IsNullOrEmpty(token))
             {
                 var listaUsuarios = await _ctx.Usuarios
-                                        .Where(x => x.Token != token && x.Estatus == true)
+                                        .Where(x => x.Token != token)
                                         .Select(z => new
                                         {
                                             z.Id,
