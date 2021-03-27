@@ -11,8 +11,18 @@ namespace ServicePMSAdmin.Services
 
         #region Auth
         Task<object> auth(Usuarios usuario);
-
+        Task<object> getUser();
         Task logOff();
+        #endregion
+
+        #region Users
+        Task<object> getUsers();
+
+        Task<object> postUser(Usuarios usuario);
+
+        Task<object> putUser(Usuarios usuario);
+
+        Task<bool> deleteUser(int idUsuario);
         #endregion
 
     }

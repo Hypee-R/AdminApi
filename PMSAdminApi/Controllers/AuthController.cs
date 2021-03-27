@@ -16,6 +16,13 @@ namespace PMSAdminApi.Controllers
         public AuthController(IPMSAdminService service) => _service = service;
 
         #region GET
+        [HttpGet("01")]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        public async Task<IActionResult> getUser()
+        {
+            return Json(await _service.getUser());
+        }
+
         [HttpGet("02")]
         public async Task<IActionResult> logOff()
         {
