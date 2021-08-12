@@ -1,0 +1,14 @@
+C:\Users\laltamirano\source\repos\PMSAdminApi\ServicePMSAdmin\bin\Debug\netcoreapp2.0\ServicePMSAdmin.deps.json
+C:\Users\laltamirano\source\repos\PMSAdminApi\ServicePMSAdmin\bin\Debug\netcoreapp2.0\ServicePMSAdmin.dll
+C:\Users\laltamirano\source\repos\PMSAdminApi\ServicePMSAdmin\bin\Debug\netcoreapp2.0\ServicePMSAdmin.pdb
+C:\Users\laltamirano\source\repos\PMSAdminApi\ServicePMSAdmin\bin\Debug\netcoreapp2.0\AccessControl.dll
+C:\Users\laltamirano\source\repos\PMSAdminApi\ServicePMSAdmin\bin\Debug\netcoreapp2.0\CorePMSAdmin.dll
+C:\Users\laltamirano\source\repos\PMSAdminApi\ServicePMSAdmin\bin\Debug\netcoreapp2.0\AccessControl.pdb
+C:\Users\laltamirano\source\repos\PMSAdminApi\ServicePMSAdmin\bin\Debug\netcoreapp2.0\CorePMSAdmin.pdb
+C:\Users\laltamirano\source\repos\PMSAdminApi\ServicePMSAdmin\obj\Debug\netcoreapp2.0\ServicePMSAdmin.csprojAssemblyReference.cache
+C:\Users\laltamirano\source\repos\PMSAdminApi\ServicePMSAdmin\obj\Debug\netcoreapp2.0\ServicePMSAdmin.csproj.CoreCompileInputs.cache
+C:\Users\laltamirano\source\repos\PMSAdminApi\ServicePMSAdmin\obj\Debug\netcoreapp2.0\ServicePMSAdmin.AssemblyInfoInputs.cache
+C:\Users\laltamirano\source\repos\PMSAdminApi\ServicePMSAdmin\obj\Debug\netcoreapp2.0\ServicePMSAdmin.AssemblyInfo.cs
+C:\Users\laltamirano\source\repos\PMSAdminApi\ServicePMSAdmin\obj\Debug\netcoreapp2.0\ServicePMSAdmin.csproj.CopyComplete
+C:\Users\laltamirano\source\repos\PMSAdminApi\ServicePMSAdmin\obj\Debug\netcoreapp2.0\ServicePMSAdmin.dll
+C:\Users\laltamirano\source\repos\PMSAdminApi\ServicePMSAdmin\obj\Debug\netcoreapp2.0\ServicePMSAdmin.pdb

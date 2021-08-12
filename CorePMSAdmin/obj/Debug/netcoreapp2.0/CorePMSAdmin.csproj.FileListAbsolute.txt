@@ -1,0 +1,8 @@
+C:\Users\laltamirano\source\repos\PMSAdminApi\CorePMSAdmin\bin\Debug\netcoreapp2.0\CorePMSAdmin.deps.json
+C:\Users\laltamirano\source\repos\PMSAdminApi\CorePMSAdmin\bin\Debug\netcoreapp2.0\CorePMSAdmin.dll
+C:\Users\laltamirano\source\repos\PMSAdminApi\CorePMSAdmin\bin\Debug\netcoreapp2.0\CorePMSAdmin.pdb
+C:\Users\laltamirano\source\repos\PMSAdminApi\CorePMSAdmin\obj\Debug\netcoreapp2.0\CorePMSAdmin.csproj.CoreCompileInputs.cache
+C:\Users\laltamirano\source\repos\PMSAdminApi\CorePMSAdmin\obj\Debug\netcoreapp2.0\CorePMSAdmin.AssemblyInfoInputs.cache
+C:\Users\laltamirano\source\repos\PMSAdminApi\CorePMSAdmin\obj\Debug\netcoreapp2.0\CorePMSAdmin.AssemblyInfo.cs
+C:\Users\laltamirano\source\repos\PMSAdminApi\CorePMSAdmin\obj\Debug\netcoreapp2.0\CorePMSAdmin.dll
+C:\Users\laltamirano\source\repos\PMSAdminApi\CorePMSAdmin\obj\Debug\netcoreapp2.0\CorePMSAdmin.pdb
